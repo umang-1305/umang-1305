@@ -3,16 +3,16 @@
 </h1>
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td style="vertical-align: middle;">
-        <p><strong>🚀 Software Engineer Associate</strong></p>
+      <td width="65%" style="vertical-align: middle;">
+        <p><strong>🚀 Software Engineer Associate at Google(via Xwf Smollan)</strong></p>
         <p><strong>🔧 Building products that shape millions</strong></p>
         <p><strong>💡 Leading initiatives & driving impactful solutions</strong></p>
         <p><strong>🌍 Driving global impact</strong></p>
         <p><strong>📫 Reach me at: <a href="mailto:umangcharaya111@gmail.com">umangcharaya111@gmail.com</a></strong></p>
       </td>
-      <td>
+      <td width="35%">
         <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" 
              alt="coding" 
              width="100%" 
