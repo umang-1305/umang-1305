@@ -4,7 +4,7 @@
 
 
 🚀 **Software Engineer Associate at Google (via Xwf Smollan)**  
-🔧 **Building products that shape millions across APAC, EMEA, and NAMER regions**  
+🔧 **Building products that shape millions**  
 💡 **Leading initiatives & driving impactful solutions**  
 🌍 **Looking to build something that drives the world and creates impact**  
 📫 How to reach me **umangcharaya111@gmail.com**
