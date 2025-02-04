@@ -6,7 +6,7 @@
   <table>
     <tr>
       <td style="vertical-align: middle;">
-        <p><strong>🚀 Software Engineer Associate at Google (via Xwf Smollan)</strong></p>
+        <p><strong>🚀 Software Engineer Associate</strong></p>
         <p><strong>🔧 Building products that shape millions</strong></p>
         <p><strong>💡 Leading initiatives & driving impactful solutions</strong></p>
         <p><strong>🌍 Driving global impact</strong></p>
